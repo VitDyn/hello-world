@@ -1,2 +1,4 @@
 # hello-world
-testing
+# checking if it works
+if True:
+print "it works"
